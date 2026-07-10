@@ -1,8 +1,6 @@
 # 🚀 InterviewX AI
 
-<div align="center">
 
-<img src="./frontend/src/assets/interview.png" width="120"/>
 
 ### AI-Powered Technical Interview Platform
 
@@ -196,14 +194,6 @@ InterviewX/
 ```
 
 
-
-
-
-# ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
-
----
 
 # 👩‍💻 Author
 
