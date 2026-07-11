@@ -5,6 +5,7 @@
 
 
 Practice coding interviews, voice interviews, AI evaluation, and detailed performance analytics — all in one modern platform.
+---
 
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green?logo=node.js)
