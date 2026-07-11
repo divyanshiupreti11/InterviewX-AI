@@ -1,10 +1,8 @@
 # 🚀 InterviewX AI
 
-
-
 ### AI-Powered Technical Interview Platform
 
-![Dashboard](./dashboard.png)
+
 
 Practice coding interviews, voice interviews, AI evaluation, and detailed performance analytics — all in one modern platform.
 
@@ -19,7 +17,8 @@ Practice coding interviews, voice interviews, AI evaluation, and detailed perfor
 </div>
 
 ---
-
+![Dashboard](./dashboard.png)
+---
 # 📖 Overview
 
 InterviewX AI is a modern AI-powered interview preparation platform that simulates technical interviews using a conversational AI model running locally with **Ollama**.
@@ -200,12 +199,19 @@ InterviewX/
 
 
 
+---
 # 👩‍💻 Author
 
 **Divyanshi Upreti**
 
-B.Tech CSE Student
+Computer Science Engineering Student
 
-MERN Stack Developer
+Graphic Era Hill University
 
-AI & Full Stack Enthusiast
+GitHub:
+https://github.com/divyanshiupreti11
+
+LinkedIn:
+https://www.linkedin.com/in/divyanshi-upreti-4a757b322/
+
+---
