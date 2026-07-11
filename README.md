@@ -99,8 +99,7 @@ Add Screenshot
 
 ![AI Report](./report.png)
 ---
-![AI Report](./ai-report.png)
----
+
 ## Answer Intelligence
 
 ![AI Report](./ai-report.png)
