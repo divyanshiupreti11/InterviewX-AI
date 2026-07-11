@@ -4,6 +4,8 @@
 
 ### AI-Powered Technical Interview Platform
 
+![Dashboard](./dashboard.png)
+
 Practice coding interviews, voice interviews, AI evaluation, and detailed performance analytics — all in one modern platform.
 
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
@@ -83,7 +85,7 @@ The platform evaluates coding ability, communication skills, confidence, and tec
 
 ## Dashboard
 
-![Dashboard](./dashboard.png)
+![Dashboard](./dashboard1.png)
 
 ---
 
@@ -97,12 +99,18 @@ Add Screenshot
 
 ![AI Report](./report.png)
 ---
-
+![AI Report](./ai-report.png)
+---
 ## Answer Intelligence
 
 ![AI Report](./ai-report.png)
 
 ---
+## AI Feedback
+
+![AI Feedback](./ai-feedback.png)
+
+----
 
 # 🛠 Tech Stack
 
