@@ -76,14 +76,16 @@ The platform evaluates coding ability, communication skills, confidence, and tec
 
 # 📸 Project Preview
 
-## Authentication
+## 🔐 Authentication
 
+### 🔑 Login
 ![Login](./login.png)
+### 📝 Register
 ![Register](./register.png)
 
 ---
 
-## Dashboard
+## 🏠 Dashboard
 
 ![Dashboard](./dashboard1.png)
 
@@ -95,17 +97,17 @@ Add Screenshot
 
 ---
 
-## AI Performance Report
+## 📊 AI Performance Report
 
 ![AI Report](./report.png)
 ---
 
-## Answer Intelligence
+## 📈 AI Report Analytics
 
 ![AI Report](./ai-report.png)
 
 ---
-## AI Feedback
+## 🤖 AI Feedback
 
 ![AI Feedback](./ai-feedback.png)
 
