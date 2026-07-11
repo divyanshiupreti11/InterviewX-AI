@@ -76,15 +76,14 @@ The platform evaluates coding ability, communication skills, confidence, and tec
 
 ## Authentication
 
-| Login | Register |
-|-------|----------|
-| Add Screenshot | Add Screenshot |
+![Login](./login.png)
+![Register](./register.png)
 
 ---
 
 ## Dashboard
 
-Add Screenshot
+![Dashboard](./dashboard.png)
 
 ---
 
@@ -96,13 +95,12 @@ Add Screenshot
 
 ## AI Performance Report
 
-Add Screenshot
-
+![AI Report](./report.png)
 ---
 
 ## Answer Intelligence
 
-Add Screenshot
+![AI Report](./ai-report.png)
 
 ---
 
